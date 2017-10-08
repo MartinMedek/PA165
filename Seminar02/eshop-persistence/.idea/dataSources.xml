@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="default/Hibernate" uuid="011779fd-2807-48b9-8e78-ec3f4b1f90fd">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:memory:testdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
